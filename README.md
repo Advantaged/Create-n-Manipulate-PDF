@@ -31,7 +31,6 @@
 
 ```
 1 aur/kf6-servicemenus-pdftools 1-2 [+2 ~0.24] [Installed]
-    KDE service menus for PDF file processing
 ```
 
 * Access Tools in Plasma-DE and/or "Dolphin"
@@ -52,7 +51,6 @@
 
 ```
 1 extra/pdfarranger 1.11.1-2 [0 B 1.54 MiB] [Installed]
-    Helps merge or split PDF documents and rotate, crop and rearrange pages
 ```
 
 ### 4. Diff-PDF
@@ -63,7 +61,6 @@
 
 ```
 1 cachyos-extra-v3/diffpdf 2.1.3.1-4.1 [0 B 649.32 KiB] [Installed]
-    Diffing pdf files visually or textually
 ```
 
 ### 5. Others
