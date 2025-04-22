@@ -36,13 +36,13 @@
 
 * Access Tools in Plasma-DE and/or "Dolphin"
 
-> Right-Mouse-Click ➡️ Actions ➡️ Convert
+> Right-Mouse-Click ➡️ Actions ➡️ Convert ➡️ …
 > 
-> Right-Mouse-Click ➡️ Actions ➡️ Extract
+> Right-Mouse-Click ➡️ Actions ➡️ Extract ➡️ …
 > 
-> Right-Mouse-Click ➡️ Actions ➡️ Repaginate
+> Right-Mouse-Click ➡️ Actions ➡️ Repaginate ➡️ …
 > 
-> Right-Mouse-Click ➡️ Actions ➡️ ➕ Tools
+> Right-Mouse-Click ➡️ Actions ➡️ ➕ Tools ➡️ …
 
 ### 3. PDF-Arranger
 
