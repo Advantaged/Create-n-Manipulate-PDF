@@ -14,7 +14,8 @@
 
 * Change Properties of a PDF-File/-Document:
 
-> File ➡️ Properties ➡️ Security ➡️ Change 
+> File ➡️ Properties ➡️ Security ➡️ Change
+> 
 > or [CTRL ➕ D] ➡️ Security ➡️ Change
 
 * **Notes:** 
@@ -36,8 +37,11 @@
 * Access Tools in Plasma-DE and/or "Dolphin"
 
 > Right-Mouse-Click ➡️ Actions ➡️ Convert
+> 
 > Right-Mouse-Click ➡️ Actions ➡️ Extract
+> 
 > Right-Mouse-Click ➡️ Actions ➡️ Repaginate
+> 
 > Right-Mouse-Click ➡️ Actions ➡️ ➕ Tools
 
 ### 3. PDF-Arranger
