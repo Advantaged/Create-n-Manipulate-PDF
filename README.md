@@ -71,3 +71,11 @@
 
 
 ✅  **Done** 👍 **& Enjoy**❗️
+
+
+
+* **Permissions in 'Master PDF Editor':** ⤵️
+
+<img src="2025-04-23_07-33_Permissions.jpg" alt="permissions" width="100%"/>
+
+
